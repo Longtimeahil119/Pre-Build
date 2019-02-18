@@ -31,10 +31,10 @@ public class Interact : MonoBehaviour
         {
             if(isInteracting == false)
             {
-                if(isInteracting == true)
-                {
-                    interactIcon.enabled = true;
-                }
+                //if(isInteracting == true)
+                //{
+                //    interactIcon.enabled = true;
+                //}
                 
 
                 if(Input.GetButtonDown(interactButton))
